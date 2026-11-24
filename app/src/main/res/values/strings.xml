@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assistente Escolar</string>
+    <string name="widget_name">Horário do Dia</string>
+    <string name="widget_description">Mostra as aulas de hoje com destaque para a aula atual ou próxima, 100% offline.</string>
+</resources>

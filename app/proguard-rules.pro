@@ -1,0 +1,2 @@
+-keep class ao.pt.assistenteescolar.data.remote.** { *; }
+-keep class ao.pt.assistenteescolar.data.local.QuizQuestion { *; }
